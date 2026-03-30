@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="./kinovi_banner.png" alt="Kinovi AI Video Studio Banner" width="100%">
+  <img src="../kinovi_banner.png" alt="Kinovi AI Video Studio Banner" width="100%">
   
   <br/>
   
